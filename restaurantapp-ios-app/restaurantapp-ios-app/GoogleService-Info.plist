@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>131428922856-9dmtm5dqnicp2s3grjok2149u82jdjie.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.131428922856-9dmtm5dqnicp2s3grjok2149u82jdjie</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDE-bqq0im51ag6gvDlnsBfH97k1EMl3Is</string>
+	<key>GCM_SENDER_ID</key>
+	<string>131428922856</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.ricardogranja.restaurantapp-ios-app</string>
+	<key>PROJECT_ID</key>
+	<string>restaurantapp-app</string>
+	<key>STORAGE_BUCKET</key>
+	<string>restaurantapp-app.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:131428922856:ios:2d8bfee396ed9b8695605d</string>
+	<key>DATABASE_URL</key>
+	<string>https://restaurantapp-app.firebaseio.com</string>
+</dict>
+</plist>
